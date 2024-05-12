@@ -1,1 +1,1 @@
-{"version":3,"file":"commonHelpers2.js","sources":[],"sourcesContent":[],"names":[],"mappings":""}
+{"version":3,"file":"commonHelpers2.js","sources":["../src/page2.js"],"sourcesContent":["import renderListFromLocalStorage from './js/renderListFromLocalStorage.js';\nimport './js/deleteTaskInLocalStorage.js';\n\nrenderListFromLocalStorage();"],"names":["renderListFromLocalStorage"],"mappings":"6DAGAA,EAA4B"}
